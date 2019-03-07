@@ -6,8 +6,8 @@ Most python, php, and golang scripts will not be included in the repo. These wil
 in limited terms to the releases of the repo.
 
 
-### Apollyon International
-is a Anti-Raiding Service and Organization dedicated to bringing continuosly harassed and raided
+### Apollyon International and ARCHS
+was once an Anti-Raiding Service and Organization dedicated to bringing continuosly harassed and raided
 users a sense of relief and satisfaction after endless suffering at the hands of raiders.
 Our Anti-Raid software will handle any and all incursions onto your user bases, servers, and more.
 
@@ -21,4 +21,7 @@ We prevent raiders from joining in the first place, and loopholes are handled by
 In addition, we raid servers and user bases of known and confirmed raiders, ourselves and with our partners and donors,
 to end the problem at the source.
 Say no more to ceaseless nuisance.
-Say hello to Apollyon International Raiding Services.
+Apollyon International Raiding Association has now, however, gone corrupt.
+Say hello to its friendly successor, the further dedicated Anti-Raid Cryptic Hash Services.
+We will end the corruptions of AIRA, and fulfill its original purpose; what is now the purpose
+of ARCHS.
