@@ -1,5 +1,5 @@
 # Discord-Anti-Raid
-Anti-raiding software for the Discord User Interface, written in c++, lua, python, java, php, and golang.
+Anti-raiding software for the Discord User Interface, written in c++, lua, python, java, php, cofequ, and golang.
 Work in progress. Will not be uploaded to the repository for public use until finished.
 All encryption bases and SSH keys will not be included in the repo.
 Most python, php, and golang scripts will not be included in the repo. These will be included
